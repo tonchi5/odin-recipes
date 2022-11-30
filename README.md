@@ -1,0 +1,1 @@
+This is my first Odin project demonstrating the bare minimum of HTML and Git skills.

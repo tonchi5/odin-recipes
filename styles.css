@@ -1,0 +1,10 @@
+body {
+    background-color: goldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1, h2, h3 {
+    color: darkslategray;
+}
+p, ul {
+    border: darkslategray solid 1px;
+}
